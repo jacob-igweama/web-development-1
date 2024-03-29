@@ -1,0 +1,11 @@
+The <meta charset="utf-8"> is a HTML tag that declares the character encoding for a specific web page.
+Character encoding defines how characters are represented as binary data, which is fundamental for web browsers to interpret and display text correctly.
+It is a local encoding i.e it only applies to the individual HTML document where it is placed.
+The inclusion of this tag(<meta charset="utf-8">) within the <head> section of an HTML document signals to the web browser, the encoding format being used, facilitating proper rendering of text in various languages and character sets.
+It requires less processing by the browser as it is a more lightweight and efficient method of specifying the character encoding.
+It helps the web page display text in multiple languages and special characters correctly.
+It is advised to always set your text editor to save HTML files as UTF-8 to ensure consistency.
+Some key reasons why it is important are:
+1. it has a universal character support; it represents virtually all characters from all writing systems worldwide.
+2. helps with search engine optimization; helps improve visibility of content in search engine rankings.
+3. helps with accessibility; it enhances accessibility by accommodating text in different languages and special characters.
