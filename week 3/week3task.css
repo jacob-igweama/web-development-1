@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: auto;
+}
+body {
+    background-image: url(cedd499c-c8e1-44ec-b6f3-ee9d464e4e29.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.box{
+    color: brown;
+    
+}
+header {
+    text-align: center;
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large
+  }
+
+  .box{
+    border-radius: 10px;
+    background: rgba(48, 197, 172, 0.8);
+    width: 600px;
+    height: auto;
+    box-shadow: 0 10px 35px 2px rgb(135, 149, 142);
+    padding: 5px;
+    color: white;
+    margin-bottom: 30px;
+    box-sizing: 93%;
+  }
+.card {
+    
+    box-sizing: border-box;
+    
+}
+.submit {
+    width: 91%;
+    height: 30px;
+    margin: 7px 20px;
+    background-color: rgb(26, 61, 234);
+    color: white;
+    border: none;
+}
+.card ,#Name,select,#email,#Age{
+    width: 94%;
+    margin-bottom: 5px;
+}
